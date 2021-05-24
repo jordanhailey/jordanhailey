@@ -1,4 +1,4 @@
-# Hey there, I'm Jordan! 👋 
+# Hey there, I'm Jordan! 👋🏽 
 <sup>If you'd like to know a bit about my background, <a href="#about-me">jump straight to the fluff.</a></sup>
 
 I'm an aspiring Front End / Full Stack Developer [who would love your help](#we-can-help-each-other)... I want to get my hands on some real projects, especially projects that are being built with the [Jamstack](https://jamstack.org/) in mind. 
