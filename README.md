@@ -32,8 +32,11 @@ If this sounds like a good deal, ping me on [Twitter](https://twitter.com/Halfro
 ### I am transitioning into software development
 Ideally, I'd like to work with JavaScript, either on the front end or the back end. But always happy to learn more languages.
 
-### I was a volunteer throughout my early twenties in an institutional environment
+### I was a volunteer throughout my early twenties
 It was the fastest pace environment I've ever lived and worked at; I was able to work on housing and office projects that impacted 40,000+ other volunteers in a 6 year span. Why is any of this relevant? I learned so many valuable qualities during that time, qualities that I believe make me more approachable and easy to work with. From my short time observing the tech community, I've noticed just how important positivity and inclusivity is. I believe the diversity in thinking and positive attitude I bring to my work will be a refreshing addition to any team I work with.
 
 ### I 💗 🇿🇦 music
 I may be born and raised in little old Portland, Oregon, USA - but the rhythm of my heart seems to beat with South African Kwaito and Amapiano music (thanks to a lovely South African I married 😄). While some may prefer to study/work with low-fi music, I get into the zone when I code with lively music.
+
+## I am learning 🇷🇺
+I have been learning Russian for the past two years, и мой русский довольно грубый, но я придерживаюсь его!
