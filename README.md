@@ -38,5 +38,5 @@ It was the fastest pace environment I've ever lived and worked at; I was able to
 ### I 💗 🇿🇦 music
 I may be born and raised in little old Portland, Oregon, USA - but the rhythm of my heart seems to beat with South African Kwaito and Amapiano music (thanks to a lovely South African I married 😄). While some may prefer to study/work with low-fi music, I get into the zone when I code with lively music.
 
-## I am learning 🇷🇺
+### I am learning 🇷🇺
 I have been learning Russian for the past two years, и мой русский довольно грубый, но я придерживаюсь его!
