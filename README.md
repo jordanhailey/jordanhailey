@@ -15,11 +15,11 @@ Send me issues in your OSS project(s) to dig into. I love learning, and contribu
 
 If this sounds like a good deal, ping me on [Twitter](https://twitter.com/Halfro_American). If you think you'd like to offer me a job (you're awesome) you can do your due dilligence on [LinkedIn](https://www.linkedin.com/in/jordanhailey/) and send me a message there, or through a DM on Twitter.
 
-**I'm Looking forward to working with you and giving back to the OSS community!**
+I'm Looking forward to working with you and giving back to the OSS community!
 
 ## About me
 ### I've worked for an enterprise open source startup for 3+ years
-I supported business operations at a venture backed startup as an Exectutive Assistant to the CEO, so I am very familiar with the fast pace of small and scrappy teams. I've closely observed Engineering teams, but would ideally like to ***work*** on an Engineering team. :) 
+I supported business operations at a venture backed startup as an Exectutive Assistant to the CEO, so I am very familiar with the fast pace of small and scrappy teams. I've closely observed Engineering teams, but ***I would ideally like to work on an Engineering team***. 
 
 ### I was a volunteer throughout my early twenties
 For nearly 6 years I was able to work on housing and office projects that impacted 40,000+ other volunteers. I learned so many valuable qualities during that time, qualities that I believe make me more approachable and easy to work with. From my short time observing the tech community, I've noticed just how important positivity and inclusivity is. I believe the diversity in thinking and positive attitude I bring to my work will be a refreshing addition to any team I work with.
